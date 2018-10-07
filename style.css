@@ -1,0 +1,17 @@
+.navbar {
+    display: inline;
+    position: sticky;
+    top: 0;
+
+}
+
+li {
+    border-right: 1px solid #bbb;
+
+}
+
+.nametag {
+    background-color: teal;
+    color: #ffffff;
+    
+}
